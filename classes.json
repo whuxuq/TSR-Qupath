@@ -1,0 +1,179 @@
+{
+  "pathClasses": [
+    {
+      "name": "Unclassified"
+    },
+    {
+      "name": "Tumor",
+      "color": -3670016
+    },
+    {
+      "name": "Stroma",
+      "color": -6895466
+    },
+    {
+      "name": "Immune cells",
+      "color": -6268256
+    },
+    {
+      "name": "Necrosis",
+      "color": -13487566
+    },
+    {
+      "name": "Other",
+      "color": -14336
+    },
+    {
+      "name": "Region*",
+      "color": -16777036
+    },
+    {
+      "name": "Ignore*",
+      "color": -1
+    },
+    {
+      "name": "Positive",
+      "color": -377282
+    },
+    {
+      "name": "Negative",
+      "color": -9408287
+    },
+    {
+      "name": "Channel 1",
+      "color": -65536
+    },
+    {
+      "name": "Channel 2",
+      "color": -16711936
+    },
+    {
+      "name": "Channel 3",
+      "color": -16776961
+    },
+    {
+      "name": "Channel 4",
+      "color": -8192
+    },
+    {
+      "name": "Channel 5",
+      "color": -16719648
+    },
+    {
+      "name": "Channel 6",
+      "color": -65312
+    },
+    {
+      "name": "Channel 7",
+      "color": -13312
+    },
+    {
+      "name": "Channel 8",
+      "color": -16711698
+    },
+    {
+      "name": "Channel 9",
+      "color": -65298
+    },
+    {
+      "name": "Channel 10",
+      "color": -3342592
+    },
+    {
+      "name": "Channel 11",
+      "color": -15948046
+    },
+    {
+      "name": "Channel 12",
+      "color": -914297
+    },
+    {
+      "name": "Channel 13",
+      "color": -9899508
+    },
+    {
+      "name": "Channel 14",
+      "color": -15971854
+    },
+    {
+      "name": "Channel 15",
+      "color": -914389
+    },
+    {
+      "name": "Channel 16",
+      "color": -15928820
+    },
+    {
+      "name": "Channel 17",
+      "color": -13955854
+    },
+    {
+      "name": "Channel 18",
+      "color": -898804
+    },
+    {
+      "name": "Channel 19",
+      "color": -15928728
+    },
+    {
+      "name": "Channel 20",
+      "color": -7926542
+    },
+    {
+      "name": "Channel 21",
+      "color": -1662697
+    },
+    {
+      "name": "Channel 22",
+      "color": -15210820
+    },
+    {
+      "name": "Channel 23",
+      "color": -2615322
+    },
+    {
+      "name": "Channel 24",
+      "color": -2562537
+    },
+    {
+      "name": "Channel 25",
+      "color": -15221530
+    },
+    {
+      "name": "Channel 26",
+      "color": -1697887
+    },
+    {
+      "name": "Channel 27",
+      "color": -8002025
+    },
+    {
+      "name": "Channel 28",
+      "color": -15242522
+    },
+    {
+      "name": "Channel 29",
+      "color": -1697970
+    },
+    {
+      "name": "Channel 30",
+      "color": -13441513
+    },
+    {
+      "name": "Channel 31",
+      "color": -14605863
+    },
+    {
+      "name": "Red",
+      "color": -65536
+    },
+    {
+      "name": "Green",
+      "color": -16711936
+    },
+    {
+      "name": "Blue",
+      "color": -16776961
+    }
+  ]
+}
